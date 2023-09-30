@@ -3,4 +3,4 @@ b=3
 if a > b:
     print("its love")
 else:
-    print("your fucked")
+    print("you're fucked")
